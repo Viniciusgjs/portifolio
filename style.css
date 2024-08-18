@@ -483,14 +483,14 @@ footer .line-footer p a {
 
     /*PORTIFOLIO*/
     section.portifolio{
-        padding: 80px 8%;
+        padding:  10%;
     }
 
 
     .img-port {
         width: 100%;
         max-width: 360px;
-        margin: 0 auto;
+        margin: 0 auto 15px;
         
     }
 
